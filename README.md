@@ -3,7 +3,12 @@
 GAMERS_LOCATIONS is a list of places where the GAMERS (Guardian Angel Medical Emergency Response System) will be applicable.
 
 Locations are classified basing on
-> id, county, subCounty, parishName, village, healthFacilities
+> ID, 
+> County, 
+> Sub County, 
+> Parish Name, 
+> Village, 
+> Health Facilities 
 
 ## Object format of the locations
 Each location at village level is mapped to a healthcare facility.
