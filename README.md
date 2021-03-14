@@ -1,4 +1,4 @@
-# GAMERS_LOCATIONS
+# GAMERS LOCATIONS
 
 GAMERS_LOCATIONS is a list of places where the GAMERS (Guardian Angel Medical Emergency Response System) will be applicable.
 
