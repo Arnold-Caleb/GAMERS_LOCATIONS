@@ -17,3 +17,5 @@ Each location at village level is mapped to a healthcare facility.
 	healthFacilities: "Kosiroi HF",
 },
   ```
+  
+For more information vist [gamers.doctorsarch.org](https://gamers.doctorsarch.org)
